@@ -12,6 +12,8 @@ See the BOM in [bom.csv](BOM.csv) or at the end of file
 ## Recap:
 **PCB:**
 [Gerber](Gerber_PCB1_2026-08-10.zip)
+
+**Scheme:**
 ![alt text](image-3.png)
 
 ## BOM
