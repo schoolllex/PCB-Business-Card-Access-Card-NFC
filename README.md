@@ -16,6 +16,12 @@ See the BOM in [bom.csv](BOM.csv) or at the end of file
 **Scheme:**
 ![alt text](image-3.png)
 
+## Why I made it ?
+I think the idea of ​​having a small business card that doubles as an access card is really great; I could use it to access private areas and promote myself by having people scan the NFC chip to visit my website.
+
+## How it's works ?
+All I have left to do is program the NFC chip so that it opens a link when scanned—for example, to promote my website.
+
 ## BOM
 | Categorie    | Article         | Quantite | Prix_Unitaire_EUR | Prix_Unitaire_USD | Prix_Total_EUR | Prix_Total_USD | Notes                                                              | URL                                                                                                                      |
 | ------------ | --------------- | -------: | ----------------: | ----------------: | -------------: | -------------: | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
